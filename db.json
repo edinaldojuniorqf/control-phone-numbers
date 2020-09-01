@@ -1,0 +1,12 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "value": "(55) 84912-3443",
+      "monthyPrice": "0.03",
+      "setupPrice": "3.4",
+      "available": false,
+      "currency": "USD"
+    }
+  ]
+}
