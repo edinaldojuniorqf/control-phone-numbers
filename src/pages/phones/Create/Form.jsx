@@ -16,8 +16,6 @@ const FormPhone = ({
   const { register, handleSubmit, errors } = useForm()
 
   const _onSubmit = data => {
-    console.log('data====', data)
-
     data.monthyPrice = inputMonthyPriceMask.unmaskedValue
     data.setupPrice = inputSetupPriceMask.unmaskedValue
 
